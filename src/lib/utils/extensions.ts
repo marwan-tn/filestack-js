@@ -639,7 +639,7 @@ export const ExtensionsMap = {
   'application/vnd.unity': ['unityweb'],
   'application/vnd.uoml+xml': ['uoml'],
   'application/vnd.vcx': ['vcx'],
-  'application/vnd.visio': ['vsd', 'vst', 'vss', 'vsw'],
+  'application/vnd.visio': ['vsd', 'vsdx', 'vst', 'vss', 'vsw'],
   'application/vnd.visionary': ['vis'],
   'application/vnd.vsf': ['vsf'],
   'application/vnd.wap.wbxml': ['wbxml'],
